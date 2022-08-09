@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-2022",
+        "command": "slot-2022:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-2022",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-2022:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
