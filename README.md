@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Slot Demo Kode Cheat Slot 2022 Joker Gaming Demo](https://atom.io/packages/slot-2022)
-## :top: klik untuk [Mulai Deposit Sekarang](https://agentotoplay.net/promo/) :zap: <<< 
-## :ok_hand: klik untuk [Dapatkan Promo Anda Hari Ini](https://agentotoplay.net/register/) :heavy_check_mark: <<< 
-## :arrow_forward: klik untuk [Mulai Deposit Sekarang](https://agentotoplay.net/promo/) :snowflake: <<< 
+## :top: klik untuk [Mulai Deposit Sekarang](https://golinkurl.github.io/promo/) :zap: <<< 
+## :ok_hand: klik untuk [Dapatkan Promo Anda Hari Ini](https://golinkurl.github.io/register/) :heavy_check_mark: <<< 
+## :arrow_forward: klik untuk [Mulai Deposit Sekarang](https://golinkurl.github.io/promo/) :snowflake: <<< 
 
 ## Informasi Situs /Server Kami : 
 
